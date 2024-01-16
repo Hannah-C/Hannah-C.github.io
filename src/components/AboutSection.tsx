@@ -24,7 +24,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-4">
-        <li>University of Waterloo - Computer Science '26</li>
+        <li>University of Waterloo - Computer Science &apos;26</li>
       </ul>
     ),
   },
@@ -58,7 +58,7 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base md:text-lg">
             Hi there! Thanks for taking the time to check out my website!
-            If I'm not coding or working on a project, you'll likely find
+            If I&apos;m not coding or working on a project, you&apos;ll likely find
             me painting a canvas or sketching some doodles! As a Computer
             Science student at the University of Waterloo minoring in Fine Arts,
             I have a strong passion for finding simple solutions to complex
