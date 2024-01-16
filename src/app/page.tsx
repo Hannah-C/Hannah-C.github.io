@@ -1,9 +1,9 @@
 import AboutSection from "@/components/AboutSection";
-import EmailSection from "@/components/EMailSection";
+import EmailSection from "@/components/EmailSection";
 import Footer from "@/components/Footer";
 import HeaderSection from "@/components/HeaderSection";
 import ProjectSection from "@/components/ProjectSection";
-import NavBar from "@/components/navBar";
+import NavBar from "@/components/NavBar";
 import Image from "next/image";
 import { Container } from "postcss";
 
