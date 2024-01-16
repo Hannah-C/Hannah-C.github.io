@@ -2,7 +2,7 @@ import { EmailTemplate } from "../../../components/EmailTemplate";
 import { Resend } from "resend";
 import { NextResponse } from "next/server";
 
-const resend = new Resend(process.env.RESEND_API_KEY);
+// const resend = new Resend(process.env.RESEND_API_KEY);
 // const fromEmail:string = process.env.FROM_EMAIL || "";
 
 // export async function POST({req, res}: {req:any, res:any}) {
